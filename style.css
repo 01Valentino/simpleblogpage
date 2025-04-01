@@ -7,6 +7,7 @@
 body {
   background: #f1f1f1;
   color: #000;
+  overflow: hidden;
 }
 img {
   display: block;
@@ -79,7 +80,7 @@ img {
   grid-template-columns: repeat(5, auto);
   column-gap: 0.5rem;
   list-style: none;
-  width: 25rem;
+  width: 22rem;
 }
 /* @keyframes border {
   0% {
