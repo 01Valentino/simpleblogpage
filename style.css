@@ -44,6 +44,8 @@ img {
 .nav-center {
   background: #2c3e50;
   padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   display: grid;
   place-items: center;
   margin-bottom: 0.5rem;
